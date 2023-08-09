@@ -1,0 +1,13 @@
+numpy
+scipy
+gym>=0.22.0
+pandas
+dm-haiku
+optax==0.1.4
+pgmpy
+networkx
+tqdm
+scikit-learn
+jraph
+wandb
+python-igraph
